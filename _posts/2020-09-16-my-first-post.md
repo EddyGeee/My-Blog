@@ -12,6 +12,8 @@ External resources, such as Microsoft 365, the Azure portal, and thousands of ot
 
 Internal resources, such as apps on your corporate network and intranet, along with any cloud apps developed by your own organization. 
 
+<h2> Who uses AZURE AD? </h2>
 
+80% of companies use Azure AD to control access, but it is intended for IT admins, App developers, and Office 365 subscribers. As an IT admin, you can use Azure to control any access from users and apps based on Company requirements. For example, at work, we use Azure AD to enforce multi-factor authentication when signing into accounts. Azure is very helpfeul because of it's automation and gives you access to your cloud apps wherever you are. 
 
 
