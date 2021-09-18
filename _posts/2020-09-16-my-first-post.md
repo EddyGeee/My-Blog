@@ -16,5 +16,5 @@ Internal resources, such as apps on your corporate network and intranet, along w
 
 80% of companies use Azure AD to control access, but it is intended for IT admins, App developers, and Office 365 subscribers. As an IT admin, you can use Azure to control any access from users and apps based on Company requirements. For example, at work, we use Azure AD to enforce multi-factor authentication when signing into accounts. Azure is very helpfeul because of it's automation and gives you access to your cloud apps wherever you are. 
 
-<b> <h3>  Stay Tuned for Next Week </h3>
+ <h3> <b> Stay Tuned for Next Week 
 - Next week, we'll show you how to setup a new user on AZURE AD! 
