@@ -38,5 +38,7 @@ To add a new user, follow these steps:
 
 The user is created and added to your Azure AD organization!
 
+- You can also invite a guest user to collaborate with your organization by selecting Invite user from the New user page. If your organization's allows it, you're allowed to invite guests, the user will be emailed an invitation they must accept in order to begin collaborating. Collaboration helps when you need a second eye on configuration and settings within Azure Directory apps. 
+
  <h3> <b> Stay Tuned for Next Week 
 - we'll show you how SharePoint works!  
