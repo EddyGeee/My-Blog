@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 <h1>  Intro </h1>
 
-Let's say you're a global administrator in Azure Active Directory for a General Contractor Company. Your organization recently added a small developer team to build a new website hosted on Azure, which more than likely is SharePoint. You're also partnering with an external organization to design the website, add users, and configure licenses to those users. You've been asked to add the new users to the organization's Azure Active Directory. To make it easier for the teams to collaborate on the website, you'll create these new accounts in Azure Active Directory for the company.
+Let's say you're a global administrator in Azure Active Directory for a General Contractor Company. Your organization recently added a small IT team to build a new website hosted on Azure, which more than likely is SharePoint. You're also partnering with an external organization to design the website, add users, and configure licenses to those users. You've been asked to add the new users to the organization's Azure Active Directory. To make it easier for the teams to collaborate on the website, you'll create these new accounts in Azure Active Directory for the company.
 
 <h2> Adding a new user </h2>
 
