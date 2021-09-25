@@ -20,7 +20,7 @@ To add a new user, follow these steps:
 
 4. On the User page, enter information for this user:
 
-- Name. Required. The first and last name of the new user. For example, Eddy Gonzalez.
+- Name is Required. The first and last name of the new user. For example, Eddy Gonzalez.
 
 - User name is required in the email. The user name of the new user should be followed by first initial of first name followed by last name. For example, egonzalez@itwork.com.
 
