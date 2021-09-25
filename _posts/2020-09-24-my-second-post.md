@@ -39,4 +39,4 @@ To add a new user, follow these steps:
 The user is created and added to your Azure AD organization!
 
  <h3> <b> Stay Tuned for Next Week 
-- Next week, we'll show you how SharePoint works!  
+- we'll show you how SharePoint works!  
