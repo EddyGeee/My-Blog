@@ -20,13 +20,13 @@ To add a new user, follow these steps:
 
 4. On the User page, enter information for this user:
 
-- Name. Required. The first and last name of the new user. For example, Mary Parker.
+- Name. Required. The first and last name of the new user. For example, Eddy Gonzalez.
 
-- User name. Required. The user name of the new user. For example, mary@contoso.com.
+- User name is required in the email. The user name of the new user should be followed by first initial of first name followed by last name. For example, egonzalez@itwork.com.
 
-- The domain part of the user name must use either the initial default domain name, <yourdomainname>.onmicrosoft.com, or a custom domain name, such as contoso.com. 
+- The domain part of the user name must use either the initial default domain name, <yourdomainname>.onmicrosoft.com, or a custom domain name, such as itwork.com. 
 
-- Groups. Optionally, you can add the user to one or more existing groups. You can also add the user to groups at a later time. 
+- Groups. Optionally, you can add the user to one or more existing groups. You can also add the user to groups at a later time. These groups can have special permissions that will require to access Azure cloud based apps such as SharePoint. 
 
 - Directory role: If you require Azure AD administrative permissions for the user, you can add them to an Azure AD role. You can assign the user to be a Global administrator or one or more of the limited administrator roles in Azure AD.
 
