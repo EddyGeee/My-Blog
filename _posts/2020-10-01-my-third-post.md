@@ -7,7 +7,12 @@ categories: jekyll update
 
 <h1> Why use a SharePoint site? </h1>
 
-Organizations use SharePoint to create websites. In Microsoft 365, you can create a site from the SharePoint start page. You also get a SharePoint team site whenever you create a Microsoft 365 group in Outlook Online or Microsoft 365. If you're in SharePoint Server, you can create a team or a number of other types of sites. You can use the sites as a secure place to store, organize, share, and access information from any device. All you need is a web browser, such as Microsoft Edge, Internet Explorer, Google Chrome, or Mozilla Firefox. There's a SharePoint mobile app as well so you can stay connected anywhere. For example, our job has multiple SharePoint sites to access data revolving our current projects, since we are a Genral Contractor, our job is to have multiple sub-sites for each project so data can be stored and shared amongst team members. 
+Organizations use SharePoint to create websites. In Microsoft 365, you can create a site from the SharePoint start page. You also get a SharePoint team site whenever you create a Microsoft 365 group in Outlook Online or Microsoft 365. You can use the sites as a secure place to store, organize, share, and access information from any device. All you need is a web browser, such as Microsoft Edge, Google Chrome, or Mozilla Firefox. There's a SharePoint mobile app as well so you can stay connected anywhere. For example, our job has multiple SharePoint sites to access data revolving our current projects, since we are a Genral Contractor, our job is to have multiple sub-sites for each project so data can be stored and shared amongst team members. 
 
 <h2> Things you can do with SharePoint right now.. </h2>
 
+- Work with others on the same document at the same time..
+    This what makes SharePoint useful for our company, lots of collaboration is involved. In a document library, when you open a file in Office on the web or desktop. It Displays the number of people currently editing the document, which appears at the top right of the document.
+
+- Sharing Documents 
+    Easy to share files within SharePoint, either inside of the organization or outside of the organization. You can select any document or folder you want to share, click the ellipses to open the menu and then click Share. You can easily set an expiration date for these shared documents and also cut off "Editing Access," which will only allow the file to be read. 
