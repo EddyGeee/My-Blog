@@ -20,4 +20,4 @@ Organizations use SharePoint to create websites. In Microsoft 365, you can creat
 - Copy and move files and folders between libraries..
      In SharePoint, you can use the Copy to or Move to command to copy or move files between libraries. You can do it two ways, syncing the folders, or opening in Explorer. The difference is that synced folders persist and can be used anytime from any app, while Open in Explorer is a one-time operation. We give our users the sync option because when you sync a library, you're making a local copy on your desktop machine. If you sync two libraries, you can copy or move files and folders, create folders, and delete one or more file or folder. Your synced library is automatically synced with the SharePoint library which makes it easier for users to save.
 
-<h3> <b> Want to control access to your stuff? - SharePoint is all about permissions, so next week we'll discuss how Permissions work and a easy way to protect your company's data!
+<h3> <b> SharePoint is all about permissions, so next week we'll discuss how Permissions work and a easy way to protect your company's data!
