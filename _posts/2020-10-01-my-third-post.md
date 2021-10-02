@@ -7,7 +7,7 @@ categories: jekyll update
 
 <h1> Why use a SharePoint site? </h1>
 
-Organizations use SharePoint to create websites. In Microsoft 365, you can create a site from the SharePoint start page. You also get a SharePoint team site whenever you create a Microsoft 365 group in Outlook Online or Microsoft 365. You can use the sites as a secure place to store, organize, share, and access information from any device. All you need is a web browser, such as Microsoft Edge, Google Chrome, or Mozilla Firefox. There's also a SharePoint mobile app as well so you can stay connected on your mobile devices. For example, our job has multiple SharePoint sites to access data revolving our current projects, since we are a Genral Contractor, our job is to have multiple sub-sites for each project so data can be stored and shared amongst team members. 
+ In Microsoft 365, you can create a site from the SharePoint start page, organizations use SharePoint to create websites. You can use the sites as a secure place to store, organize, share, and access information from any device. All you need is a web browser, such as Microsoft Edge, Google Chrome, or Mozilla Firefox. There's also a SharePoint mobile app as well so you can stay connected on your mobile devices. For example, our job has multiple SharePoint sites to access data revolving our current projects, since we are a Genral Contractor, our job is to have multiple sub-sites for each project so data can be stored and shared amongst team members. 
 
 <h2> Things you can do with SharePoint right now.. </h2>
 
