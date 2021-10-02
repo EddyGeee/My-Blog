@@ -14,5 +14,5 @@ Organizations use SharePoint to create websites. In Microsoft 365, you can creat
 - Work with others on the same document at the same time..
     This what makes SharePoint useful for our company, lots of collaboration is involved. In a document library, when you open a file in Office on the web or desktop. It Displays the number of people currently editing the document, which appears at the top right of the document.
 
-- Sharing Documents 
+- Sharing Documents.. 
     Easy to share files within SharePoint, either inside of the organization or outside of the organization. You can select any document or folder you want to share, click the ellipses to open the menu and then click Share. You can easily set an expiration date for these shared documents and also cut off "Editing Access," which will only allow the file to be read. 
