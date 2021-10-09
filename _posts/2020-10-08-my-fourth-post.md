@@ -22,4 +22,4 @@ Each organization sets up its security groups differently. For easier permission
 
 For example, we named a security group "Accounting - Rep" and it is not small enough to assign individual permissions, unless all users in "Accounting - Rep" have the same job function, such as reviewing checks. Therefore, we have to create a security group after the name, and only that group will view the specifics of their job function, no one else can see. Permissions control access to sites and site content. Fine-grained permissions also help to secure content at the item and document level.
 
-<img src=" https://docs.microsoft.com/en-us/sharepoint/sharepointonline/media/manage-security-groups.png" 
+<img src=" https://docs.microsoft.com/en-us/sharepoint/sharepointonline/media/manage-security-groups.png" > 
