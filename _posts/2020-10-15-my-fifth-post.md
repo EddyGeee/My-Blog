@@ -17,3 +17,18 @@ MFA works by requiring two or more of the following authentication methods:
 - typically a password.
 - a trusted device that is not easily duplicated, like a phone or hardware key.
 - a fingerprint or face scan.
+
+<h4> Available Methods </h4>
+
+When a user signs in to an application or service and receives an MFA prompt, they can choose from one of their registered forms of additional verification.
+
+The following additional forms of verification can be used:
+
+- Microsoft Authenticator app (Ex: AZURE AD)
+- Google Authenticator App (Ex: GMAIL)
+- Duo Mobile (Ex: CSUN Login)
+- SMS (Ex: Anything)
+- Voice call (Ex: Anyhting)
+
+
+<img src="https://docs.microsoft.com/en-us/azure/active-directory/authentication/media/tutorial-enable-azure-mfa/conditional-access-overview.png" > 
