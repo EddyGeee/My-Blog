@@ -10,3 +10,4 @@ Multi-factor authentication, simply known as MFA, is a process when a user is pr
 
 <h3> Why use it? </h3>
 
+If a user only uses a password to authenticate their login, it leaves it unsecure and open for an easy attack. Especially, if the password is weak or has been exposed anywhere on the web, that account will be vulnerable and you wouldn't know who signed in. 
