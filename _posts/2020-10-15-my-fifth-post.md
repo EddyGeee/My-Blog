@@ -18,7 +18,7 @@ MFA works by requiring two or more of the following authentication methods:
 - a trusted device that is not easily duplicated, like a phone or hardware key.
 - a fingerprint or face scan.
 
-<h4> Available Methods </h4>
+<h2> Available Methods </h2>
 
 When a user signs in to an application or service and receives an MFA prompt, they can choose from one of their registered forms of additional verification.
 
