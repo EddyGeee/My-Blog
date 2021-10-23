@@ -12,8 +12,7 @@ categories: jekyll update
 
 
 This week I would like to discuss some useful commands in wireshark and how to use them to view encrypted wireless WEP and WPA traffic.
-The reason you need a type of encryption is because without it your traffic would be visable in plain text.  Now WEP and WPA are not 
-perfect but they are better than not having any type of encryption.  To show this lets imagine we have a unencrypted plain text .cap file.
+The reason you need a type of encryption is because without it your traffic would be visable in plain text.
 This means any usernames and passwords that you used to login to any websites would be viewable as plaintext and anyone listening to your 
 traffic.
 
