@@ -28,7 +28,7 @@ This will show you all wireless networks that are on this capture.  You need to 
 It will show you the BSSID, ESSID, and the Encyption, for this example we are attacking 5 TOWSON22 network. The software will attempt to 
 brute-force the key after a small amount of time you will view this screen, which tells you that you have successfully found the key.
 
-![WEP-2](https://github.com/EddyGeee/My-Blog/blob/main/wep-2.png "WEP-2")
+![WEP-2](https://github.com/EddyGeee/My-Blog/blob/main/wep-2.png?raw=true "WEP-2")
 
 	AA:AA:AA:AA:AA
 
@@ -36,9 +36,9 @@ brute-force the key after a small amount of time you will view this screen, whic
 Now using this key we will decrypt the network traffic using that key and another security suite tool: airdecap-ng.
 	airdecap-ng -w AA:AA:AA:AA:AA /tmp/captures/WEP1.cap
 
-![WEP-3](https://github.com/EddyGeee/My-Blog/blob/main/wep-3.png "WEP-3")
+![WEP-3](https://github.com/EddyGeee/My-Blog/blob/main/wep-3.png?raw=true "WEP-3")
 	
 
 Now all the traffic is in plaintext and you can view usernames and passwords.
-![WEP-4](https://github.com/EddyGeee/My-Blog/blob/main/wep-4.png "WEP-4")
+![WEP-4](https://github.com/EddyGeee/My-Blog/blob/main/wep-4.png?raw=true "WEP-4")
 
