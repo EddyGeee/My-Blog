@@ -17,8 +17,7 @@ This means any usernames and passwords that you used to login to any websites wo
 traffic.
 
 Now with WEP traffic if you have a captured .cap file you will not be able to view any of this traffic until you break the encryption.
-To do this you will need to use a tool that is included with aircrack-ng suite, other tools included with this suite include airodump-ng, 
-airmon-ng, aireplay-ng and many more.  For this we are just using the base aircrack-ng, because we already have a .cap file for us to use.
+For this we are just using the base aircrack-ng, because we already have a .cap file for us to use.
 First you need to select the .cap file.
 	aircrack-ng /tmp/captures/WEP1.cap
 
