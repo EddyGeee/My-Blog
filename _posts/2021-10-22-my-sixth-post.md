@@ -43,20 +43,3 @@ Now using this key we will decrypt the network traffic using that key and anothe
 Now all the traffic is in plaintext and you can view usernames and passwords.
 ![WEP-4](https://v1ndl3r.github.io/CIT480/assets/WEP-4.PNG "WEP-4")
 
-Now with WPA cracking it is very easy as well but you will need to use a wordlist to crack it.
-
-	aircrack-ng /tmp/captures/WPA-01.cap -w /tmp/wordlists/passlist
-	Select the network you wish to attack, 3 for this attack.
-
-![WPA-1](https://v1ndl3r.github.io/CIT480/assets/WPA-1.PNG "WPA-1")
-
-Again after some time it will come back with a crack password in this case: breezeless.
-You will also use airdecap-ng to unencrypt the traffic.
-	airdecap-ng /tmp/captures/WPA-01.cap -e TOWNSON333 -p breezeless
-
-![WPA-2](https://v1ndl3r.github.io/CIT480/assets/WPA-2.PNG)
-
-![WPA-3](https://v1ndl3r.github.io/CIT480/assets/WPA-3.PNG)
-
-
-This again will allow you to view the traffic in plaintext.
