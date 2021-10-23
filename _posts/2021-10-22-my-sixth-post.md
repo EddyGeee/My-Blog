@@ -8,7 +8,7 @@ categories: jekyll update
 
 
 
-<h1> Useful Commands </h1>
+<h1> Wireshark Commands </h1>
 
 
 This week I would like to discuss some useful commands in wireshark and how to use them to view encrypted wireless WEP and WPA traffic.
