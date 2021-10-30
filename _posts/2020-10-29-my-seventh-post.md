@@ -31,7 +31,7 @@ In Linux, directory structure starts with `/` symbol, which is referred as the `
 
 * `mkdir project` create directory named 'project' in current working directory
 * `man sort` manual page for `sort` command
-* `wget https://s.ntnu.no/bashguide.pdf` download file from internet
+* `wget https://github.com/prometheus/node_exporter/releases/download/v1.2.2/node_exporter-1.2.2.linux-amd64.tar.gz` download file from internet
 
 <h1> command with options and arguments </h1>
 
