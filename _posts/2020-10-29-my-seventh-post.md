@@ -5,7 +5,7 @@ date:   2021-10-29.
 categories: jekyll update
 ---
 
-In today's blog, we'll give out a few simple commands for Linux that can benefit any beginner. Before we dive into ocean of commands, lets get a brief overview on Linux file system. 
+In today's blog, we'll give out a few simple commands for Linux that can benefit any beginner. Before we dive into commands, lets get a brief overview on Linux file system. 
 
 
 In Linux, directory structure starts with `/` symbol, which is referred as the `root` directory.
