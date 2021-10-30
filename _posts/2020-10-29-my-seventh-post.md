@@ -22,7 +22,7 @@ In Linux, directory structure starts with `/` symbol, which is referred as the `
 * `clear` clear the terminal screen
 * `top` display Linux processes
 
-<h> command with options </h1>
+<h1> command with options </h1>
 
 * `ls -l` list directory contents, use a long listing format
 * `df -h` report file system disk space usage, print sizes in human readable format (e.g., 1K 234M 2G)
