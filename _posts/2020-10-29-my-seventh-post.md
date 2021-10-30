@@ -25,7 +25,7 @@ In Linux, directory structure starts with `/` symbol, which is referred as the `
 <h1> command with options </h1>
 
 * `ls -l` list directory contents, use a long listing format
-* `df -h` report file system disk space usage, print sizes in human readable format (e.g., 1K 234M 2G)
+* `df -h` report file system disk space usage, print sizes in readable format 
 
 <h1> command with arguments </h1>
 
