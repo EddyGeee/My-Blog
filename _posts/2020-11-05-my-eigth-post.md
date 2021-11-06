@@ -24,7 +24,7 @@ Here are Tips on using Glitch with Github. Glitch is a great platform for web de
 4. Open the Tools menu again and click on the 'Export to GitHub' option. 
 _Note: if the export option is grayed out, you will need to grant Glitch permission to your GitHub account, simply click the link above the grayed out button 'Grant access to import and export to a repo' to set that up._
 
-![Screenshot showing the export to github button location](images/exportToGithub.png)
+![Glitchy3](https://github.com/EddyGeee/My-Blog/blob/main/glitchy3.png?raw=true "Glitchy3")
 
 5. A pop-up window will ask you for your user/repo names. The user name will be either your GitHub account name or your organization name (I haven't tested this, but I'm assuming you need to at least be an admin of the org to do this- it could be limited to the org's creator). The repo name is the one you just created in step 1. 
 
