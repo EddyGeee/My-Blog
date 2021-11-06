@@ -28,4 +28,4 @@ _Note: if the export option is grayed out, you will need to grant Glitch permiss
 
 5. A pop-up window will ask you for your user/repo names. The user name will be either your GitHub account name or your organization name (I haven't tested this, but I'm assuming you need to at least be an admin of the org to do this- it could be limited to the org's creator). The repo name is the one you just created in step 1. 
 
-6. A new popup will ask you for a commit comment. You can change the default or just leave it. 
+6. A new popup will ask you for a commit comment. You can change the default or just leave it!
