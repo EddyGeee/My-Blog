@@ -7,7 +7,7 @@ categories: jekyll update
 
 <h1 style="background-color:DodgerBlue;">Glitch and Github Tips</h1>
 
-Here are Tips on using Glitch with Github. Glitch is a great platform for web develpoment and web hosting. 
+Here are few basic tips on using Glitch with Github. Glitch is a great platform for web develpoment and web hosting. 
 
 ### Basics
 
