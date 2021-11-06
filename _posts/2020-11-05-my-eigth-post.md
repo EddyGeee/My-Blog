@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Blog 7 - Glitch"
+title:  "Blog 7 - Glitch for the win"
 date:   2021-11-05.
 categories: jekyll update
 ---
 
 <h1 style="background-color:DodgerBlue;">Glitch and the Future</h1>
+
