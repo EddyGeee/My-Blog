@@ -11,7 +11,7 @@ Here are few basic tips on using Glitch with Github. Glitch is a great platform 
 
 ### Basics
 
-Step 1. [Create a new repo in GitHub](https://help.github.com/articles/create-a-repo/). This can be a basic user repo or an organizational repo. If it is an organization, be sure to substitute the organization name. (Learn about the [Differences between user and organization accounts](https://help.github.com/articles/differences-between-user-and-organization-accounts/)
+Step 1. [Create a new repo in GitHub](https://help.github.com/articles/create-a-repo/). This can be a basic user repo or an organizational repo. If it is an organization, be sure to substitute the organization name. (Learn about the [Differences between user and organization accounts](https://help.github.com/articles/differences-between-user-and-organization-accounts/).
 
 Step 2. Go to your project in Glitch. Click on the 'Tools' button at the bottom of the left-hand menu. 
 
