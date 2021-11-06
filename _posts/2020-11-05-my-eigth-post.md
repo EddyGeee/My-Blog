@@ -17,6 +17,8 @@ Here are few basic tips on using Glitch with Github. Glitch is a great platform 
 
 ![Glitchy1](https://github.com/EddyGeee/My-Blog/blob/main/glitchy1.png?raw=true "Glitchy1")
 
+###
+
 3. Before you can export your project to Glitch, you will need to grant Glitch access to your GitHub account. Click on 'Grant Access' to do this and approve the access request. You can always revoke access later through your GitHub account. 
 
 ![Glitchy2](https://github.com/EddyGeee/My-Blog/blob/main/glitchy2.png?raw=true "Glitchy2")
