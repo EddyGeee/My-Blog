@@ -15,7 +15,7 @@ Displays all current TCP/IP network configuration values and refreshes Dynamic H
 * `ipconfig /displaydns` displays the contents of the DNS client resolver cache
 
 
-These commands is most useful on computers that are configured to obtain an IP address automatically. This enables users to determine which TCP/IP configuration values have been configured by DHCP, Automatic Private IP Addressing (APIPA), or an alternate configuration.
+These commands are most useful on computers that are configured to obtain an IP address automatically. This enables users to determine which TCP/IP configuration values have been configured by DHCP, Automatic Private IP Addressing (APIPA), or an alternate configuration.
 
 
 
