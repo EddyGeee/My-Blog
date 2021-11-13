@@ -11,11 +11,13 @@ Displays all current TCP/IP network configuration values and refreshes Dynamic H
 
 <h2> Syntax </h2>
 
-* `ipconfig /all` displays the full current network configurations 
+* `ipconfig` display the basic network configuration for all adapters
+* `ipconfig /all` displays the full current network configurations for all adapters 
+* `ipconfig /renew Local Area Connection` renews a DHCP-assigned IP address configuration for only the Local Area Connection adapter
 * `ipconfig /displaydns` displays the contents of the DNS client resolver cache
 
 
-These commands are most useful on computers that are configured to obtain an IP address automatically. This enables users to determine which TCP/IP configuration values have been configured by DHCP, Automatic Private IP Addressing (APIPA), or an alternate configuration.
+These commands are most useful on computers that are configured to obtain an IP address automatically. This enables users to determine which TCP/IP configuration values have been configured by DHCP, Automatic Private IP Addressing (APIPA), or an alternate configuration. 
 
 
 
