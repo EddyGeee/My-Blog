@@ -11,6 +11,8 @@ A windows command line utility that is used to manage the IP address assigned to
 
 Displays all current TCP/IP network configuration values and refreshes Dynamic Host Configuration Protocol (DHCP) and Domain Name System (DNS) settings. Used without parameters, ipconfig displays Internet Protocol version 4 (IPv4) and IPv6 addresses, subnet mask, and default gateway for all adapters.
 
+Every device that connects to the Internet has its own Internet Protocol (IP) address. IP addresses make it possible, among other things, for computers from different networks to find each other. IP addresses are vital for all Internet-based activities, and yet it's not uncommon that a user doesn't know his computer's IP address or what it's good for.
+
 <h2> Syntax </h2>
 
 * `ipconfig` display the basic network configuration for all adapters
