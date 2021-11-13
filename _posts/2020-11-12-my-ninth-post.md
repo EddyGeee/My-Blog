@@ -9,4 +9,10 @@ categories: jekyll update
 
 Displays all current TCP/IP network configuration values and refreshes Dynamic Host Configuration Protocol (DHCP) and Domain Name System (DNS) settings. Used without parameters, ipconfig displays Internet Protocol version 4 (IPv4) and IPv6 addresses, subnet mask, and default gateway for all adapters.
 
+<h2> Syntax </h2>
+
+* `ipconfig /all` displays all current network configurations 
+
+
+
 
