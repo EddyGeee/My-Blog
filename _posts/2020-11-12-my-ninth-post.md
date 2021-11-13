@@ -5,7 +5,7 @@ date:   2021-11-05.
 categories: jekyll update
 ---
 
-<h1> IPCONFIG </h1> 
+
 
 A windows command line utility that is used to manage the IP address assigned to the machine it is running in. Used without any additional parameters, it displays the computer's currently assigned IP, subnet mask and default gateway addresses. IPCONFIG has several command line switches (parameters) preceded with a slash. 
 
