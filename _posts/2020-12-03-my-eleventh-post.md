@@ -16,13 +16,13 @@ Digital certificates, also known as identity certificates or public key certific
 
 TLS certificates usually contain the following information:
 
-The subject domain name
-The subject organization
-The name of the issuing CA
-Additional or alternative subject domain names, including subdomains, if any
-Issue date
-Expiry date
-The public key (The private key, however, is a secret.)
-The digital signature by the CA
+- The subject domain name
+- The subject organization
+- The name of the issuing CA
+- Additional or alternative subject domain names, including subdomains, if any
+- Issue date
+- Expiry date
+- The public key (The private key, however, is a secret.)
+- The digital signature by the CA
 
 
