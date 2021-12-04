@@ -8,7 +8,7 @@ categories: jekyll update
 
 Transport Layer Security is a protocol that establishes an encrypted session between two computers on the Internet. It verifies the identity of the server and prevents hackers from intercepting any data.
 
-Whenever you send or receive information on the Internet, it passes through a network of multiple computers to reach the destination. Historically, any of these computers could read your data, because it was not encrypted.
+Whenever you send or receive information on the Internet, it passes through a network of multiple computers to reach the destination. Any of these computers could read your data, because it was not encrypted.
 
 <h2> What is a TLS Certificate? </h2> 
 
