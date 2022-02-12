@@ -13,7 +13,7 @@ In this exercise you will connect to your Azure Active Directory and create some
 
 1. Return to your windows powershell or open Windows PowerShell as Administrator type the following command and press enter.
 
-
+y
 
 a. Import-Module MSOnline
 
