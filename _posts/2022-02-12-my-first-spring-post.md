@@ -5,7 +5,7 @@ date:   2022-02-12.
 categories: jekyll update
 ---
 
-<h1> Create 5 test users using Azure Management Shell </h1>
+<h2> Create 5 test users using Azure Management Shell </h2>
 
 In this blog, i will show how to connect to your Azure Active Directory and create some new users that will be used for testing.
 
