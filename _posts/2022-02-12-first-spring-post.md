@@ -7,13 +7,11 @@ categories: jekyll update
 
 <h1> Create 5 test users using Azure Management Shell </h1>
 
-In this exercise you will connect to your Azure Active Directory and create some new users that will be used for testing.
+I will show you how to connect to your Azure Active Directory and create some new users that will be used for testing.
 
 **Note** If you prefer you can create the users in the UI using the 365 Admin centre via the users – active users management tool.
 
 1. Return to your windows powershell or open Windows PowerShell as Administrator type the following command and press enter.
-
-
 
 a. Import-Module MSOnline
 
