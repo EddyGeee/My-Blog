@@ -54,4 +54,4 @@ In this blog, you will log into Office 365 and add an App direct from the store.
 
 ![s9](https://github.com/EddyGeee/My-Blog/blob/main/s9.PNG?raw=true "s9")
 
-<h1> You have successfully deployed an app </h2>
+<h1> You have successfully deployed an app </h1>
