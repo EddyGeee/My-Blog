@@ -20,11 +20,11 @@ In this blog, you will log into Office 365 and add an App direct from the store.
 
 4. In the Apps page click on ‘SharePoint Store’ in the quick launch bar.
 
-
+![s2](https://github.com/EddyGeee/My-Blog/blob/main/s2.PNG?raw=true "s2")
 
 5. In the ‘Find and app’ search bar type ‘Support+ help-on demand’ and press the search icon.
 
-
+![s3](https://github.com/EddyGeee/My-Blog/blob/main/s3.PNG?raw=true "s3")
 
 6. Click on the Support+ Icon to open it and then click on ‘Add IT’
 
