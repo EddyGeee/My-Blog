@@ -9,7 +9,7 @@ This week I assisted my friend in uploading an SSL certificate for his REST API 
 
 With the ever-expanding Internet, the need for privacy is at an all time high. Companies are constantly hiring networking specialists and system administrators to help in increasing the security of their application. One of those tasks is uploading and managing an SSL/TLS certificate on an application or website. 
 
-The first step I took was checking to see if a proper domain was attached to the site for simplicity purposes. In the scenario I was in I recommended my friend [namecheap.com] as they provide a wide array of public domains. 
+The first step I took was checking to see if a proper domain was attached to the site for simplicity purposes. In the scenario I was in I recommended my friend namecheap.com as they provide a wide array of public domains. 
 
 Next, I had to choose which SSL/TLS provider I wanted to use and if a wildcard certificate was necessary. I highly recommend using [Let's Encrypt][let-encrypt] for free SSL/TLS certificates as it's their goal to encrypt everything on the internet. They are otherwise known as a free CA (certificate authority) an issuer of digital certificates that certifies the ownership of the public key with the subject of the certificate. 
 
