@@ -5,9 +5,7 @@ date:   2022-03-12.
 categories: jekyll update
 ---
 
-This week I assisted my friend in uploading an SSL certificate for his REST API to enable secure and encrypted connection within his application. I won't be going through the whole architecture of the application but I'll share the steps I took to enabling HTTPS connection between his front-end application and his backend services. 
-
-With the ever-expanding Internet, the need for privacy is at an all time high. Companies are constantly hiring networking specialists and system administrators to help in increasing the security of their application. One of those tasks is uploading and managing an SSL/TLS certificate on an application or website. 
+This week I assisted my friend in uploading an SSL certificate for his REST API to enable secure and encrypted connection within his application. 
 
 The first step I took was checking to see if a proper domain was attached to the site for simplicity purposes. In the scenario I was in I recommended my friend namecheap.com as they provide a wide array of public domains. 
 
