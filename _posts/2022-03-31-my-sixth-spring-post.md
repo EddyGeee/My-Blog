@@ -2,52 +2,21 @@
 layout: post
 title:  "Spring 22 - Blog 6"
 date:   2022-03-31.
-categories: Fabric Rsync SSH
+categories: Kubernetes Minikube 
 ---
 
-Fabric is a high level Python module built on top of Paramiko to execute hell commands remotely over SSH. Those familiar with Paramiko are able to understand the underlying similarities between the two SSH modules. Similar to Paramiko, one can import the library into a Python script or install it directly to their Python interpreter. 
+According to the documentation, Kubernetes is a portable, extensible, open-source platform for managing containerized workloads and services, that facilitates both declarative configuration and automation. It has a large, rapidly growing ecosystem. Kubernetes services, support, and tools are widely available.
 
-Here are some example code modules:
+Running containers in production has always been the up and coming way to manage production workload. Aside from managing a variety of nodes through a singular manager, it can minimize costs. This will be a guide to setup Kubernetes on a Mac environment.
 
-Run singular commands on an individual host instance <br>
-    >>> result = Connection('web1').run('hostname')
-        web1
-        >>> result
-        <Result cmd='hostname' exited=0>
-Single commands across multiple hosts <br>
-    >>> from fabric import SerialGroup
-        >>> result = SerialGroup('web1', 'web2').run('hostname')
-        web1
-        web2
-        >>> # Sorting for consistency...it's a dict!
-        >>> sorted(result.items())
-    (<Connection host=web1>, <Result cmd='hostname' exited=0>), ...]   
-Here are examples covering Fabric imported into a Python script <br>
-    import Fabric
-    >>> def disk_free(c):
-    ...     uname = c.run('uname -s', hide=True)
-    ...     if 'Linux' in uname.stdout:
-    ...         command = "df -h / | tail -n1 | awk '{print $5}'"
-    ...         return c.run(command, hide=True).stdout.strip()
-    ...     err = "No idea how to get disk space on {}!".format(uname)
-    ...     raise Exit(err)
-    ...
-    >>> print(disk_free(Connection('web1')))
-Running on multiple hosts <br>
-    >>> # NOTE: Same code as above!
-    >>> def disk_free(c):
-    ...     uname = c.run('uname -s', hide=True)
-    ...     if 'Linux' in uname.stdout:
-    ...         command = "df -h / | tail -n1 | awk '{print $5}'"
-    ...         return c.run(command, hide=True).stdout.strip()
-    ...     err = "No idea how to get disk space on {}!".format(uname)
-    ...     raise Exit(err)
-    ...
-    >>> for cxn in SerialGroup('web1', 'web2', 'db1'):
-    ...    print("{}: {}".format(cxn, disk_free(cxn)))
-    <Connection host=web1>: 33%
-    <Connection host=web2>: 17%
-    <Connection host=db1>: 2%
-First and foremost it's important to understand the capabilities of this library. It's capable of automating and provisioning multiple instances directly from your local machine. Multiple tasks may be given in a single CLI session, through the use of `fab build deploy`. Just setup a `fabfile` and setup hostname initialization to connect to your servers/instances. 
+<h3>Installing Kubernetes on Mac</h3>
 
-
+1. First, ensure that the Homebrew package manager is installed. Then run the command `brew tap homebrew/cask' <br>
+![Imgur](https://i.imgur.com/HhDq300.png)
+2. Proceed to install Docker for Mac which is used to create, manage, and run containers. This will allow us to create containers that will run in our Kubernetes Pods. <br>
+3. Install VirtualBox for Mac. Either install directly from the website or using this homebrew command `brew cask install virtualbox`. This will allow you to run virtual machines on your Mac. <br>
+4. Install kubectl which is a command-line interface that can interact with Kubernetes. Using homebrew, run `brew install kubectl` <br>
+![Imgur](https://i.imgur.com/dSb1utL.png)
+5. Finally install Minikube which will run a Kubernetes cluster with a single node. Use the command `curl -Lo minikube https://storage.googleapis.com/minikube/releases/v1.18.1/minikube-darwin-amd64` which is using the most recent update for the MAC distro. <br>
+6. Continue by running `minikube start` which will then start your cluster. <br>
+![Imgur](https://i.imgur.com/djuwLuw.png)
